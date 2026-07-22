@@ -1,0 +1,6 @@
+﻿Nombre,Cantidad,Componente
+"GAS1",1," Sensor de gas"
+"U4",1," Arduino Uno R3"
+"U5",1," Sensor de temperatura [TMP36]"
+"R1",1,"4.7 kΩ Resistencia"
+"U1",1,"Basado en MCP23008, 32 (0x20) LCD 16 x 2 (I2C)"
